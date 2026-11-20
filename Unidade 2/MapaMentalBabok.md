@@ -8,6 +8,10 @@ mindmap
         Compreender necessidades
         Recomendar soluções
         Alcançar objetivos organizacionais
+      Domínio
+        Área de análise
+        Organização
+        Clientes e fornecedores
       Partes Interessadas
         Clientes
         Usuários
@@ -50,7 +54,7 @@ mindmap
         Definir escopo e entregas
         Monitorar atividades
       Elicitação de Requisitos
-        Preparar elicitação
+        Preparar a elicitação
         Entrevistas e reuniões
         Coletar informações
         Documentar resultados
@@ -81,21 +85,16 @@ mindmap
         Validar solução
         Avaliar desempenho
 
-    Objetivos do BABOK
+    Objetivo do BABOK
       Padronizar práticas de análise
       Orientar o trabalho do analista
       Melhorar a comunicação
       Entregar valor ao negócio
 
-    Referências Bibliográficas
-      Material da Disciplina
-        Engenharia de Requisitos
-        Aula 02 - Análise de Negócio BABOK
-        CEUB
-      Referência Oficial
-        INTERNATIONAL INSTITUTE OF BUSINESS ANALYSIS
-        BABOK Guide Appendix A: Glossary
-        Disponível no site do IIBA
+    Fontes de Pesquisa
+      Material da Aula 02
+        Engenharia de Requisitos - CEUB
+      Referência IIBA
+        BABOK Guide - Glossary
         https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/glossary/
-        Acesso em 10 ago. 2026
 ```
