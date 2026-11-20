@@ -1,4 +1,3 @@
-
 # 🎮 Técnica de Estudo: Um Jogo Acessível para o Ensino de UML
 
 ## 🎯 Tema Central
