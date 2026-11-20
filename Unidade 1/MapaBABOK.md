@@ -1,19 +1,3 @@
-```mermaid
-mindmap
-  root((Análise de Negócios<br>BABOK / IIBA))
-    Objetivo
-      Viabilizar Mudanças
-      Gerar Valor
-      Entender Problemas, Necessidades e Oportunidades
-    BACCM - 6 Conceitos
-      Necessidade
-      Solucao
-      Mudanca
-      Valor
-      Stakeholder
-      Contexto
-      Fluxo
-        Necessidade --> Solucao --> Mudanca --> Valor
     Tipos de Requisitos
       Negocio
         Objetivos da Organizacao
