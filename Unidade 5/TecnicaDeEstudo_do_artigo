@@ -1,0 +1,49 @@
+
+# Técnica de Estudo
+
+## Mapa Mental – "Um Jogo Acessível para o Ensino de UML"
+
+```mermaid
+mindmap
+  root((🎮 Jogo Educacional Acessível para UML))
+    Objetivos
+      Incluir deficientes visuais
+      Ensinar UML - Casos de Uso
+      Validar acessibilidade em jogos sérios
+
+    Fundamentação Teórica
+      Jogos sérios
+        Engajamento e aprendizado
+      UML
+        Linguagem visual para sistemas
+      Acessibilidade
+        WCAG 2.1 e adaptações
+
+    Metodologia
+      Revisão bibliográfica
+      Definição de requisitos
+        21 diretrizes
+      Desenvolvimento do protótipo
+      Testes de usabilidade e acessibilidade
+
+    O Jogo - U.C. Battle
+      Herói enfrenta vilões
+      Batalhas de perguntas
+      Dificuldade progressiva
+      Sistema de pontos de vida
+      Habilidade especial com dicas
+
+    Diretrizes Implementadas
+      Alternativas textuais
+      Contraste mínimo
+      Controle de áudio
+      Operação via teclado
+      Tutorial sem penalização
+      Sem limite de tempo
+
+    Resultados e Contribuições
+      Jogo validado positivamente
+      Inclusão de deficientes visuais
+      Critérios práticos de acessibilidade
+      Apoio ao ensino de UML
+```
