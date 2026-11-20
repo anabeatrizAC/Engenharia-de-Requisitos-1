@@ -1,29 +1,34 @@
+
+```mermaid
+mindmap
+  root((Engenharia de Requisitos))
     Tipos de Requisitos
-      Negocio
-        Objetivos da Organizacao
+      Negócio
+        Objetivos da Organização
         Ex: Reduzir custos em 10%
       Stakeholder
-        Necessidades de partes interessadas
-      Solucao
+        Necessidades das partes interessadas
+      Solução
         Funcional
           O que o sistema faz
           Ex: Cadastrar clientes
-        Nao-Funcional
+        Não Funcional
           Qualidade e Desempenho
-          Ex: Resposta em ate 3s
-      Transicao
-        Temporario durante implantacao
-        Descarta-se apos uso
-    Areas de Conhecimento
+          Ex: Resposta em até 3s
+      Transição
+        Temporário durante a implantação
+        Descartado após o uso
+    Áreas de Conhecimento
       Planejamento e Monitoramento
-        Abordagem, Governanca e Engajamento
-      Elicitacao e Colaboracao
-        Entrevistas, Workshops e Confirmacao
+        Abordagem, Governança e Engajamento
+      Elicitação e Colaboração
+        Entrevistas, Workshops e Confirmação
       Gerenciamento do Ciclo de Vida
-        Rastreabilidade, Priorizacao e Mudancas
-      Analise de Estrategia
+        Rastreabilidade, Priorização e Mudanças
+      Análise de Estratégia
         Estado Atual vs Futuro e Riscos
-      Analise de Requisitos e Design
-        Especificacao, Modelagem e BPMN
-      Avaliacao da Solucao
+      Análise de Requisitos e Design
+        Especificação, Modelagem e BPMN
+      Avaliação da Solução
         Medir Desempenho e Recomendar Melhorias
+```
