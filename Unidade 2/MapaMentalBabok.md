@@ -1,100 +1,79 @@
 
 ```mermaid
 mindmap
-  root((BABOK - Análise de Negócios))
-    Conceitos Fundamentais
-      Análise de Negócios
-        Identificar problemas e oportunidades
-        Compreender necessidades
-        Recomendar soluções
-        Alcançar objetivos organizacionais
-      Domínio
-        Área de análise
-        Organização
-        Clientes e fornecedores
-      Partes Interessadas
-        Clientes
-        Usuários
-        Analistas
-        Desenvolvedores
-        Gestores
-      Solução
-        Mudanças para atender necessidades
-        Processos
-        Sistemas
-        Regras de negócio
+  root((BABOK))
+    1. Conceito
+      Guia de conhecimento em Análise de Negócios
+      Publicado pelo IIBA
+      Reúne práticas e técnicas
+      Ajuda a encontrar soluções para necessidades do negócio
 
-    Níveis de Requisitos
-      Requisitos de Negócio
-        Objetivos e metas da organização
-        Alinhamento estratégico
-        Exemplo: Reduzir custos
+    2. Análise de Negócios
+      Identificar problemas e oportunidades
+      Compreender as necessidades
+      Envolver as partes interessadas
+      Definir requisitos
+      Buscar a melhor solução
+      Situação atual AS IS
+      Situação desejada TO BE
+
+    3. Requisitos
+      Requisitos de Negócios
+        Objetivos da organização
+        Metas e necessidades
       Requisitos das Partes Interessadas
         Necessidades dos envolvidos
-        Expectativas dos usuários
-        Ligação entre negócio e solução
+        Expectativas sobre a solução
       Requisitos da Solução
         Funcionais
-          Funções do sistema
-          Exemplo: Cadastrar clientes
+          O que o sistema deve fazer
         Não Funcionais
-          Qualidade e desempenho
-          Exemplo: Resposta em até 3 segundos
+          Qualidade e condições de funcionamento
       Requisitos de Transição
         Temporários
-        Implantação da solução
-        Treinamentos
         Migração de dados
+        Treinamento
+        Mudança do estado atual para o desejado
 
-    Áreas de Conhecimento
+    4. Áreas de Conhecimento
       Planejamento e Monitoramento
-        Identificar partes interessadas
-        Definir papéis e responsabilidades
-        Planejar comunicação
-        Definir escopo e entregas
-        Monitorar atividades
-      Elicitação de Requisitos
-        Preparar a elicitação
-        Entrevistas e reuniões
-        Coletar informações
-        Documentar resultados
-        Validar informações
-      Gerenciamento e Comunicação
-        Gerenciar escopo e requisitos
-        Rastreabilidade
+        Definir atividades e processos
+        Identificar envolvidos
+        Estabelecer responsabilidades
+        Planejar comunicação e recursos
+      Elicitação
+        Preparar a coleta
+        Conversar com os envolvidos
+        Registrar informações
+        Validar resultados
+      Gerenciamento de Requisitos e Comunicação
+        Organizar requisitos
         Controlar mudanças
-        Manter requisitos
-        Comunicar requisitos
+        Manter rastreabilidade
+        Compartilhar informações
       Análise Corporativa
         Identificar necessidades do negócio
-        Avaliar lacunas
-        Definir abordagem da solução
+        Analisar problemas e oportunidades
         Definir escopo da solução
-        Elaborar plano de negócios
+        Elaborar justificativa do negócio
       Análise de Requisitos
-        Priorizar requisitos
-        Organizar requisitos
+        Organizar e priorizar
         Especificar requisitos
-        Modelar diagramas
-        Verificar e validar requisitos
+        Criar modelos
+        Verificar e validar
       Avaliação e Validação da Solução
-        Avaliar solução proposta
-        Alocar requisitos
-        Avaliar prontidão organizacional
-        Definir requisitos de transição
-        Validar solução
-        Avaliar desempenho
+        Avaliar a solução proposta
+        Verificar atendimento aos requisitos
+        Preparar a organização para mudanças
+        Avaliar resultados
 
-    Objetivo do BABOK
-      Padronizar práticas de análise
-      Orientar o trabalho do analista
-      Melhorar a comunicação
-      Entregar valor ao negócio
-
-    Fontes de Pesquisa
-      Material da Aula 02
-        Engenharia de Requisitos - CEUB
-      Referência IIBA
-        BABOK Guide - Glossary
-        https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/glossary/
+    5. Referências
+      Material da disciplina
+        Engenharia de Requisitos
+        Aula 02 - Análise de Negócios
+        CEUB
+      Referência oficial
+        IIBA
+        BABOK Guide - Appendix A Glossary
+        Acesso em 10 ago. 2026
 ```
